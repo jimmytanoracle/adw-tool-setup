@@ -19,7 +19,7 @@ wget https://objectstorage.uk-london-1.oraclecloud.com/p/DEbSlnJAxz58LGz97bRQPwU
 
 wget https://objectstorage.uk-london-1.oraclecloud.com/p/4copnNHswrNq8RZA-4FpHCo6rWpA7tU5gRfwzsP4UpE/n/apaccpt01/b/adwterratorm/o/stopAllContainers.sh -P /home/opc/
 
-sudo chmod +x *.sh
+sudo chmod +x /home/opc/*.sh
 
 sudo reboot
 
