@@ -7,7 +7,7 @@ sudo systemctl start docker
 
 sudo groupadd docker
 
-sudo usermod -a -G docker $USER
+sudo usermod -a -G docker opc
 
 export docker_password="UNnp:Lh0pi}O]9)0IB#l"
 
