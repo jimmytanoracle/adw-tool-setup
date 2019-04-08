@@ -21,4 +21,5 @@ wget https://objectstorage.uk-london-1.oraclecloud.com/p/4copnNHswrNq8RZA-4FpHCo
 
 sudo chmod +x *.sh
 
+sudo reboot
 
